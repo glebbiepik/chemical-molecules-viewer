@@ -1,5 +1,5 @@
 # Molecule3D
-
+![Demo](smoke.png)
 Build 3D models of organic molecules from a name, a molecular formula, or a
 SMILES string. Fully client-side: no build step, no server, no dependencies
 beyond a local copy of three.js.
